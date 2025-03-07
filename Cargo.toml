@@ -5,3 +5,4 @@ edition = "2021"
 description = "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP."
 # guard against empty input
 # handle the edge case from the last release
+# guard against empty input
